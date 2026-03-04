@@ -62,10 +62,7 @@ Passionate about building scalable architectures and leading high-performing eng
 ## 🚀 Featured Project: Shiftly
 > **A complete ecosystem designed to optimize team workflow and operational efficiency.**
 
-<p align="center">
-  <img src="https://image.upilink.in/shiftly_showcase.png" alt="Shiftly Project Overview" width="100%" />
-</p>
-
+[![Explore Shiftly](https://img.shields.io/badge/Explore%20Shiftly-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.shiftly.site/)
 ### 📜 Technical Abstract
 Shiftly addresses complex resource coordination challenges. The platform features a responsive client interface, a resilient API service, and a central orchestration layer for scheduling logic. It emphasizes cross-platform synchronization and high data availability.
 
