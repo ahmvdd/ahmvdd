@@ -1,73 +1,80 @@
-<div align="center">
-
-# Hey, I'm Ahmed 👋
-### Aspiring CTO · Full-Stack Engineer · Tech Lead
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sayeh-189989222/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.sayeh67@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white)](https://www.sayehahmed.com/)
-[![Visitors](https://visitcount.itsvg.in/api?id=ahmvdd&icon=0&color=3)](https://visitcount.itsvg.in)
-
-</div>
+# Ahmed Sayeh
+### Senior Full-Stack Engineer | Aspiring CTO & Tech Lead 🚀
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 Executive Summary
+Passionate about building scalable architectures and leading high-performing engineering teams. I bridge the gap between business strategy and technical execution, focusing on performance, security, and developer experience.
 
-I'm a passionate developer with a CTO mindset — I care about building **scalable systems**, leading **high-performing teams**, and bridging the gap between **business vision** and **technical execution**.
-
-- 🏗️ Focused on: **System Architecture & Engineering Leadership**
-- ☁️ Exploring: **Cloud Native & AI-powered applications**
-- 🌍 Based in: **France**
-- 💬 Let's talk about: Full-stack dev, tech strategy & mentoring
+- 🏗️ **Strategic Architecture**: Design of robust microservices and cloud-native systems.
+- 👥 **Team Leadership**: Mentoring developers and implementing Agile/Scrum methodologies.
+- 🎯 **Goal**: Driving innovation while ensuring technical debt remains under control.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Expertise & Ecosystem
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+### 🌐 Core Technologies
+`TypeScript` • `JavaScript` • `Python` • `PHP` • `Swift` • `SQL`
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<table style="width: 100%; border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Frontend & Mobile</h4>
+      <ul>
+        <li><b>Frameworks:</b> Next.js, React, Vue.js, Angular</li>
+        <li><b>Mobile:</b> Flutter, Swift Native</li>
+        <li><b>Animation:</b> Three.js, Framer</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Architecture</h4>
+      <ul>
+        <li><b>Environments:</b> Node.js, Express, Laravel</li>
+        <li><b>Security:</b> JWT, OAuth, Web Security</li>
+        <li><b>Infrastructure:</b> Docker, Nginx, Apache</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💾 Data Management</h4>
+      <ul>
+        <li><b>SQL:</b> PostgreSQL, MySQL, MariaDB, MSSQL</li>
+        <li><b>NoSQL:</b> MongoDB, Redis</li>
+        <li><b>Reporting:</b> Power BI</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 Management & Tools</h4>
+      <ul>
+        <li><b>Planning:</b> Jira, Notion, Trello</li>
+        <li><b>Design:</b> Figma, Gimp</li>
+        <li><b>Strategy:</b> Tech Roadmap, Code Review</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Engineering Insights
 
-<div align="center">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmvdd&show_icons=true&theme=distinguished&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmvdd&layout=compact&theme=distinguished&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmvdd&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmvdd&layout=compact&theme=tokyonight&hide_border=true)
+---
 
-</div>
+## 📬 Get in Touch
+Let's talk about architecture, leadership, or innovative projects.
+
+[![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.sayeh67@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_LINKEDIN)
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ahmvdd&icon=0&color=3" alt="Visitor Count" />
+</p>
