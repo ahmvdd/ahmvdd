@@ -1,5 +1,5 @@
 # Ahmed Sayeh
-### Senior Full-Stack Engineer | Aspiring CTO & Tech Lead 🚀
+### Full-Stack Engineer | Aspiring CTO & Tech Lead 🚀
 
 ---
 
@@ -57,13 +57,31 @@ Passionate about building scalable architectures and leading high-performing eng
 </table>
 
 ---
+---
 
-## 📊 Engineering Insights
+## 🚀 Featured Project: Shiftly
+> **A complete ecosystem designed to optimize team workflow and operational efficiency.**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmvdd&show_icons=true&theme=distinguished&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmvdd&layout=compact&theme=distinguished&hide_border=true" alt="Top Languages" height="150" />
+<p align="center">
+  <img src="https://image.upilink.in/shiftly_showcase.png" alt="Shiftly Project Overview" width="100%" />
 </p>
+
+### 📜 Technical Abstract
+Shiftly addresses complex resource coordination challenges. The platform features a responsive client interface, a resilient API service, and a central orchestration layer for scheduling logic. It emphasizes cross-platform synchronization and high data availability.
+
+* **Role**: Lead Architect & Full-Stack Developer
+* **Core Challenge**: Synchronizing real-time data across web and mobile interfaces with minimal latency.
+* **Key Achievement**: Designed a horizontal scaling strategy using container orchestration to handle traffic spikes.
+
+### 🛠️ Key Technology Stack
+`Next.js (React)` • `Node.js` • `PostgreSQL` • `Docker` • `Nginx` • `WebSocket`
+
+---
+#### 🔗 Explore
+| [🌐 Live Application](https://www.shiftly.site/) | [📄 Technical Case Study](https://github.com/ahmvdd/shiftly-architecture) | [🐛 Report an Issue](https://github.com/ahmvdd/shiftly-issue-tracker) |
+| :--- | :--- | :--- |
+
+---
 
 ---
 
