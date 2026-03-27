@@ -75,7 +75,7 @@ Shiftly addresses complex resource coordination challenges. The platform feature
 
 ---
 #### 🔗 Explore
-| [🌐 Live Application](https://www.shiftly.site/) | [📄 Technical Case Study](https://github.com/ahmvdd/shiftly-architecture) | [🐛 Report an Issue](https://github.com/ahmvdd/shiftly-issue-tracker) |
+| [🌐 Live Application](https://www.shiftly.site/) 🚀
 | :--- | :--- | :--- |
 
 ---
@@ -86,7 +86,7 @@ Shiftly addresses complex resource coordination challenges. The platform feature
 Let's talk about architecture, leadership, or innovative projects.
 
 [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.sayeh67@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ahmed-sayeh-189989222/))
 
 ---
 
