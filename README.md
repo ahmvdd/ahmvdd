@@ -17,6 +17,9 @@ Passionate about building scalable architectures and leading high-performing eng
 ### 🌐 Core Technologies
 `Java` • `TypeScript` • `JavaScript` • `Python` • `PHP` • `Swift` • `SQL`
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmvdd&layout=compact&theme=flat&hide=html,css,scss" alt="Top Languages d'Ahmed" />
+</p>
 <table style="width: 100%; border: none;">
   <tr>
     <td width="50%" valign="top">
@@ -88,6 +91,3 @@ Let's talk about architecture, leadership, or innovative projects.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sayeh-189989222/)
 
 ---
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmvdd&theme=transparent" alt="GitHub Streak" />
-</p>
