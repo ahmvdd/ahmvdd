@@ -15,7 +15,7 @@ Passionate about building scalable architectures and leading high-performing eng
 ## 🛠️ Expertise & Ecosystem
 
 ### 🌐 Core Technologies
-`TypeScript` • `JavaScript` • `Python` • `PHP` • `Swift` • `SQL`
+`Java` • `TypeScript` • `JavaScript` • `Python` • `PHP` • `Swift` • `SQL`
 
 <table style="width: 100%; border: none;">
   <tr>
@@ -30,7 +30,7 @@ Passionate about building scalable architectures and leading high-performing eng
     <td width="50%" valign="top">
       <h4>⚙️ Backend & Architecture</h4>
       <ul>
-        <li><b>Environments:</b> Node.js, Express, Laravel</li>
+        <li><b>Languages:</b> Java (Spring), Node.js, Express, Laravel</li>
         <li><b>Security:</b> JWT, OAuth, Web Security</li>
         <li><b>Infrastructure:</b> Docker, Nginx, Apache</li>
       </ul>
@@ -57,12 +57,12 @@ Passionate about building scalable architectures and leading high-performing eng
 </table>
 
 ---
----
 
 ## 🚀 Featured Project: Shiftly
 > **A complete ecosystem designed to optimize team workflow and operational efficiency.**
 
 [![Explore Shiftly](https://img.shields.io/badge/Explore%20Shiftly-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.shiftly.site/)
+
 ### 📜 Technical Abstract
 Shiftly addresses complex resource coordination challenges. The platform features a responsive client interface, a resilient API service, and a central orchestration layer for scheduling logic. It emphasizes cross-platform synchronization and high data availability.
 
@@ -74,11 +74,10 @@ Shiftly addresses complex resource coordination challenges. The platform feature
 `Next.js (React)` • `Node.js` • `PostgreSQL` • `Docker` • `Nginx` • `WebSocket`
 
 ---
-#### 🔗 Explore
-| [🌐 Live Application](https://www.shiftly.site/) 🚀
-| :--- | :--- | :--- |
 
----
+#### 🔗 Explore
+| [🌐 Live Application](https://www.shiftly.site/) |
+| :--- |
 
 ---
 
@@ -86,7 +85,7 @@ Shiftly addresses complex resource coordination challenges. The platform feature
 Let's talk about architecture, leadership, or innovative projects.
 
 [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.sayeh67@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ahmed-sayeh-189989222/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sayeh-189989222/)
 
 ---
 
