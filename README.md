@@ -88,7 +88,6 @@ Let's talk about architecture, leadership, or innovative projects.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sayeh-189989222/)
 
 ---
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ahmvdd&icon=0&color=3" alt="Visitor Count" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmvdd&theme=transparent" alt="GitHub Streak" />
 </p>
