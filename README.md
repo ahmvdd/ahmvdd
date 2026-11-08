@@ -1,91 +1,54 @@
-# Ahmed Sayeh
-### Full-Stack Engineer | Aspiring CTO & Tech Lead 🚀
+# Hi, I'm Ahmed Sayeh 👋
+
+**Full-stack developer · Master CTO & Tech Lead @ HETIC (Paris)**
+I build products end to end, from the database to the UI, and I'm getting deep into quantitative finance.
+
+🎯 **Looking for a work-study contract (alternance)** in software engineering, Paris area
+🌐 [sayehahmed.com](https://www.sayehahmed.com/) · ✉️ [ahmed.sayeh67@gmail.com](mailto:ahmed.sayeh67@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-sayeh-189989222/)
 
 ---
 
-##  Executive Summary
-Passionate about building scalable architectures and leading high-performing engineering teams. I bridge the gap between business strategy and technical execution, focusing on performance, security, and developer experience.
+## 🚀 Products I've shipped
 
--  **Strategic Architecture**: Design of robust microservices and cloud-native systems.
--  **Team Leadership**: Mentoring developers and implementing Agile/Scrum methodologies.
--  **Goal**: Driving innovation while ensuring technical debt remains under control.
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **Shiftly** | Shift & team-planning SaaS for businesses: scheduling, availability, team workflow | Next.js · Node.js · PostgreSQL · Docker | [Live](https://www.shiftly.site/) · [Front](https://github.com/ahmvdd/Mc-planning-front) · [Back](https://github.com/ahmvdd/Mc-planning-back) |
+| **Décode ton courrier** | Explains French administrative letters in plain language for newcomers and older adults. Built at the OpenAI Paris DevDay hackathon | TypeScript · OpenAI API | [Repo](https://github.com/ahmvdd/decode-courrier) |
+| **Nexus** | Privacy-first local AI chat: runs Llama / Mistral through Ollama, nothing leaves your machine. Desktop app via Tauri | Next.js 14 · TypeScript · Tauri · Ollama | [Repo](https://github.com/ahmvdd/nexus-chat) |
+| **PingWatch** | Uptime monitoring: checks your URLs every 5 minutes, emails you when they go down | TypeScript | [Repo](https://github.com/ahmvdd/pingwatch) |
 
----
+## 📈 Quant & finance
 
-##  Expertise & Ecosystem
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **quant-lab** | Market microstructure research notes: OU pairs trading (KO/PEP), tail risk, Hawkes order flow, and a C++20 limit order book engine on Nasdaq ITCH 5.0 data *(in progress)* | Python · C++20 · Jupyter | [Repo](https://github.com/ahmvdd/quant-lab) |
+| **IA_Trade** | Full-stack trading dashboard comparing Random Forest vs XGBoost on 5-day return forecasts | Python · scikit-learn · XGBoost | [Repo](https://github.com/ahmvdd/IA_Trade) |
 
-###  Core Technologies
-`Java` • `TypeScript` • `JavaScript` • `Python` • `PHP` • `Swift` • `SQL`
+## 🎨 3D & creative
 
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **Falke HX-9** | Concept VTOL drone shown as an interactive 3D exploded view that assembles on scroll | Three.js | [Live](https://falke-hx9.vercel.app) · [Repo](https://github.com/ahmvdd/falke-hx9) |
+| **Metaverse** | Immersive 3D environments with custom shaders | ShaderLab | [Repo](https://github.com/ahmvdd/mmporg-metaverse) |
 
-<table style="width: 100%; border: none;">
-  <tr>
-    <td width="50%" valign="top">
-      <h4> Frontend & Mobile</h4>
-      <ul>
-        <li><b>Frameworks:</b> Next.js, React, Vue.js, Angular</li>
-        <li><b>Mobile:</b> Flutter, Swift Native</li>
-        <li><b>Animation:</b> Three.js, Framer</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4> Backend & Architecture</h4>
-      <ul>
-        <li><b>Languages:</b> Java (Spring), Node.js, Express, Laravel</li>
-        <li><b>Security:</b> JWT, OAuth, Web Security</li>
-        <li><b>Infrastructure:</b> Docker, Nginx, Apache</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4> Data Management</h4>
-      <ul>
-        <li><b>SQL:</b> PostgreSQL, MySQL, MariaDB, MSSQL</li>
-        <li><b>NoSQL:</b> MongoDB, Redis</li>
-        <li><b>Reporting:</b> Power BI</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏢 Management & Tools</h4>
-      <ul>
-        <li><b>Planning:</b> Jira, Notion, Trello</li>
-        <li><b>Design:</b> Figma, Gimp</li>
-        <li><b>Strategy:</b> Tech Roadmap, Code Review</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 🧭 Tech leadership
+
+**Solvia, CTO case study (HETIC):** a 90-day plan to take over the tech leadership of a struggling scale-up (audit, tech debt, team, roadmap). → [Read it](https://solvia-cto-case-study.vercel.app)
 
 ---
 
-##  Featured Project: Shiftly
-> **A complete ecosystem designed to optimize team workflow and operational efficiency.**
+## 🛠️ Stack
 
-[![Explore Shiftly](https://img.shields.io/badge/Explore%20Shiftly-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.shiftly.site/)
-
-###  Technical Abstract
-Shiftly addresses complex resource coordination challenges. The platform features a responsive client interface, a resilient API service, and a central orchestration layer for scheduling logic. It emphasizes cross-platform synchronization and high data availability.
-
-* **Role**: Lead Architect & Full-Stack Developer
-* **Core Challenge**: Synchronizing real-time data across web and mobile interfaces with minimal latency.
-* **Key Achievement**: Designed a horizontal scaling strategy using container orchestration to handle traffic spikes.
-
-###  Key Technology Stack
-`Next.js (React)` • `Node.js` • `PostgreSQL` • `Docker` • `Nginx` • `WebSocket`
+**Daily:** TypeScript · React / Next.js · Node.js · PostgreSQL · Docker · Python
+**Also used:** Java (Spring) · PHP (Laravel) · C++ · Three.js · MongoDB · Redis · Nginx
+**Tools:** Git · Figma · Notion · Jira
 
 ---
 
-#### 🔗 Explore
-| [🌐 Live Application](https://www.shiftly.site/) |
-| :--- |
+## 📫 Let's talk
 
----
-
-##  Get in Touch
-Let's talk about architecture, leadership, or innovative projects.
+Open to alternance opportunities in software engineering, especially in **fintech, banking and product teams**.
 
 [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.sayeh67@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sayeh-189989222/)
-
----
+[![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sayehahmed.com/)
