@@ -1,79 +1,89 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Ahmed%20Sayeh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Future%20Tech%20Lead&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=I+build+products+end+to+end+%F0%9F%9A%80;Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+Docker;Getting+deep+into+quantitative+finance+%F0%9F%93%88;Looking+for+an+alternance+in+Paris+%F0%9F%8E%AF" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://www.sayehahmed.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/ahmed-sayeh-189989222/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:ahmed.sayeh67@gmail.com)
-
-</div>
+# Ahmed Sayeh
+### Full-Stack Engineer | Aspiring CTO & Tech Lead 🚀
 
 ---
 
-### 👋 About me
+##  Executive Summary
+Passionate about building scalable architectures and leading high-performing engineering teams. I bridge the gap between business strategy and technical execution, focusing on performance, security, and developer experience.
 
-```ts
-const ahmed = {
-  role: "Full-Stack Developer",
-  school: "HETIC — Master CTO & Tech Lead",
-  basedIn: "Paris 🇫🇷",
-  lookingFor: "Alternance — software engineering (fintech, banking, product)",
-  currentlyBuilding: ["Shiftly", "quant-lab"],
-};
-```
+**Strategic Architecture**: Design of robust microservices and cloud-native systems.
+**Team Leadership**: Mentoring developers and implementing Agile/Scrum methodologies.
+**Goal**: Driving innovation while ensuring technical debt remains under control.
+---
+
+##  Expertise & Ecosystem
+
+###  Core Technologies
+Java • TypeScript • JavaScript • Python • PHP • Swift • SQL
+
+<table style="width: 100%; border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h4> Frontend & Mobile</h4>
+      <ul>
+        <li><b>Frameworks:</b> Next.js, React, Vue.js, Angular</li>
+        <li><b>Mobile:</b> Flutter, Swift Native</li>
+        <li><b>Animation:</b> Three.js, Framer</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4> Backend & Architecture</h4>
+      <ul>
+        <li><b>Languages:</b> Java (Spring), Node.js, Express, Laravel</li>
+        <li><b>Security:</b> JWT, OAuth, Web Security</li>
+        <li><b>Infrastructure:</b> Docker, Nginx, Apache</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4> Data Management</h4>
+      <ul>
+        <li><b>SQL:</b> PostgreSQL, MySQL, MariaDB, MSSQL</li>
+        <li><b>NoSQL:</b> MongoDB, Redis</li>
+        <li><b>Reporting:</b> Power BI</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 Management & Tools</h4>
+      <ul>
+        <li><b>Planning:</b> Jira, Notion, Trello</li>
+        <li><b>Design:</b> Figma, Gimp</li>
+        <li><b>Strategy:</b> Tech Roadmap, Code Review</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Products I've shipped
+##  Featured Project: Shiftly
 
-<div align="center">
+**A complete ecosystem designed to optimize team workflow and operational efficiency.**
 
-<a href="https://www.shiftly.site/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmvdd&repo=Mc-planning-front&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%"/></a>
-<a href="https://github.com/ahmvdd/decode-courrier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmvdd&repo=decode-courrier&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%"/></a>
-<a href="https://github.com/ahmvdd/nexus-chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmvdd&repo=nexus-chat&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%"/></a>
-<a href="https://github.com/ahmvdd/pingwatch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmvdd&repo=pingwatch&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%"/></a>
+[![Explore Shiftly](https://img.shields.io/badge/Explore%20Shiftly-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.shiftly.site/)
 
-</div>
+###  Technical Abstract
+Shiftly addresses complex resource coordination challenges. The platform features a responsive client interface, a resilient API service, and a central orchestration layer for scheduling logic. It emphasizes cross-platform synchronization and high data availability.
 
-### 📈 Quant & finance
-
-<div align="center">
-
-<a href="https://github.com/ahmvdd/IA_Trade"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmvdd&repo=IA_Trade&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%"/></a>
-<a href="https://github.com/ahmvdd/quant-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmvdd&repo=quant-lab&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%"/></a>
-
-</div>
-
-### 🎨 3D & creative
-
-<div align="center">
-
-<a href="https://falke-hx9.vercel.app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmvdd&repo=falke-hx9&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%"/></a>
-<a href="https://solvia-cto-case-study.vercel.app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmvdd&repo=solvia-cto-case-study&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%"/></a>
-
-</div>
+**Role**: Lead Architect & Full-Stack Developer
+**Core Challenge**: Synchronizing real-time data across web and mobile interfaces with minimal latency.
+**Key Achievement**: Designed a horizontal scaling strategy using container orchestration to handle traffic spikes.
+###  Key Technology Stack
+Next.js (React) • Node.js • PostgreSQL • Docker • Nginx • WebSocket
 
 ---
 
-### 🛠️ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,docker,python&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=java,spring,laravel,cpp,threejs,mongodb,redis,nginx,figma&theme=dark" />
-
-</div>
+#### 🔗 Explore
+| 🌐 Live Application |
+| :--- |
 
 ---
 
-<div align="center">
+##  Get in Touch
+Let's talk about architecture, leadership, or innovative projects.
 
-**Open to alternance opportunities. Let's build something.**
+[![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.sayeh67@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sayeh-189989222/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
-
-</div>
+---
